@@ -1,0 +1,59 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'VT323', monospace;
+}
+
+#logo {
+    width: 22rem;
+    margin:0 auto 0 ;
+    display:block;
+    margin-top: 3rem;
+}
+
+#row2 {
+    background-color: rgb(247, 247, 247);
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+#searchBar {
+    width: 25rem;
+    height: 25px;
+}
+
+.text1 {
+    font-size: 15px;
+}
+
+
+#box1 {
+    background-color: rgb(89, 228, 233);
+    border: 1px solid rgb(255, 255, 255);
+    border-width: 1px;
+    font-size: 20px;
+    
+}
+
+#box1>ul {
+    padding: 15px;
+}
+
+#box2 {
+    background-color: rgb(39, 209, 221);
+    border: 1px solid rgb(255, 255, 255);
+    border-width: 1px;
+}
+
+#box2>ul {
+    padding: 15px;
+}
+
+#box3 {
+    background-color: rgb(89, 177, 172);
+    margin-left: auto;
+    border: 1px solid rgb(255, 255, 255);
+    border-width: 1px;
+}
